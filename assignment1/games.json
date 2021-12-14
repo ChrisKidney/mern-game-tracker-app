@@ -1,0 +1,209 @@
+[
+    {
+        "title": "DEATHLOOP",
+        "developer": "Arkane Studios",
+        "release_date": "2021-09-14T00:00:00.000Z",
+        "description": "DEATHLOOP is a next-gen FPS from Arkane Lyon, the award-winning studio behind Dishonored. In DEATHLOOP, two rival assassins are trapped in a mysterious timeloop on the island of Blackreef, doomed to repeat the same day for eternity.",
+        "owned": true,
+        "completion_status": {
+            "beaten": true,
+            "completed_achievements": true,
+            "endless": false,
+            "on_hold": false,
+            "dropped": false
+        },
+        "steam_app_id": 1252330,
+        "steam_image": "https://cdn.akamai.steamstatic.com/steam/apps/1252330/header.jpg",
+        "tags": [
+            "FPS",
+            "Action",
+            "Stealth",
+            "Immersive Sim"
+        ],
+        "steam_reviews":{
+            "num_reviews": 7367,
+            "overall_rating": "Mostly Positive"
+        }
+    },
+    {
+        "title": "Final Fantasy XIV: Online",
+        "developer": "Square Enix",
+        "release_date": "2014-02-18T00:00:00.000Z",
+        "description": "Take part in an epic and ever-changing FINAL FANTASY as you adventure and explore with friends from around the world.",
+        "owned": true,
+        "completion_status": {
+            "beaten": false,
+            "completed_achievements": false,
+            "endless": true,
+            "on_hold": false,
+            "dropped": false
+        },
+        "steam_app_id": 39210,
+        "steam_image": "https://cdn.akamai.steamstatic.com/steam/apps/39210/header.jpg",
+        "tags": [
+            "MMORPG",
+            "Fantasy",
+            "JRPG"
+        ],
+        "steam_reviews":{
+            "num_reviews": 40558,
+            "overall_rating": "Very Positive"
+        }
+    },
+    {
+        "title": "Resident Evil 3",
+        "developer": "CAPCOM Co., Ltd.",
+        "release_date": "2020-04-03T00:00:00.000Z",
+        "description": "Jill Valentine is one of the last remaining people in Raccoon City to witness the atrocities Umbrella performed. To stop her, Umbrella unleashes their ultimate secret weapon: Nemesis! Also includes Resident Evil Resistance, a new 1 vs 4 online multiplayer game set in the Resident Evil universe.",
+        "owned": true,
+        "completion_status": {
+            "beaten": false,
+            "completed_achievements": false,
+            "endless": false,
+            "on_hold": true,
+            "dropped": false
+        },
+        "steam_app_id": 952060,
+        "steam_image": "https://cdn.akamai.steamstatic.com/steam/apps/952060/header.jpg",
+        "tags": [
+            "Action",
+            "Horror",
+            "Zombies",
+            "Remake"
+        ],
+        "steam_reviews":{
+            "num_reviews": 32417,
+            "overall_rating": "Mostly Positive"
+        }
+    },
+    {
+        "title": "Halo Infinite",
+        "developer": "343 Industries",
+        "release_date": "2021-12-08T00:00:00.000Z",
+        "description": "The legendary Halo series returns with the most expansive Master Chief campaign yet and a ground-breaking free to play multiplayer experience.",
+        "owned": false,
+        "completion_status": {
+            "beaten": false,
+            "completed_achievements": false,
+            "endless": false,
+            "on_hold": false,
+            "dropped": false
+        },
+        "steam_app_id": 1240440,
+        "steam_image": "https://cdn.akamai.steamstatic.com/steam/apps/1240440/header.jpg",
+        "tags": [
+            "FPS",
+            "Action",
+            "Sci-fi",
+            "Multiplayer"
+        ],
+        "steam_reviews":{
+            "num_reviews": 0,
+            "overall_rating": ""
+        }
+    },
+    {
+        "title": "Counter-Strike: Global Offensive",
+        "developer": "Valve",
+        "release_date": "2012-08-21T00:00:00.000Z",
+        "description": "Counter-Strike: Global Offensive (CS: GO) expands upon the team-based action gameplay that it pioneered when it was launched 19 years ago. CS: GO features new maps, characters, weapons, and game modes, and delivers updated versions of the classic CS content (de_dust2, etc.).",
+        "owned": true,
+        "completion_status": {
+            "beaten": false,
+            "endless": true,
+            "completed_achievements": true,
+            "on_hold": false,
+            "dropped": false
+        },
+        "steam_app_id": 730,
+        "steam_image": "https://cdn.akamai.steamstatic.com/steam/apps/730/header.jpg",
+        "tags": [
+            "FPS",
+            "Action",
+            "Competitive",
+            "Multiplayer"
+        ],
+        "steam_reviews":{
+            "num_reviews": 5902444,
+            "overall_rating": "Very Positive"
+        }
+    },
+    {
+        "title": "Half-Life: Alyx",
+        "developer": "Valve",
+        "release_date": "2020-03-23T00:00:00.000Z",
+        "description": "Half-Life: Alyx is Valve’s VR return to the Half-Life series. It’s the story of an impossible fight against a vicious alien race known as the Combine, set between the events of Half-Life and Half-Life 2. Playing as Alyx Vance, you are humanity’s only chance for survival.",
+        "owned": true,
+        "completion_status": {
+            "beaten": true,
+            "endless": false,
+            "completed_achievements": false,
+            "on_hold": true,
+            "dropped": false
+        },
+        "steam_app_id": 546560,
+        "steam_image": "https://cdn.akamai.steamstatic.com/steam/apps/546560/header.jpg",
+        "tags": [
+            "FPS",
+            "Action",
+            "VR",
+            "Horror"
+        ],
+        "steam_reviews":{
+            "num_reviews": 52403,
+            "overall_rating": "Overwhelmingly Positive"
+        }
+    },
+    {
+        "title": "Sekiro: Shadows Die Twice",
+        "developer": "FromSoftware",
+        "release_date": "2019-03-21T00:00:00.000Z",
+        "description": "Game of the Year - The Game Awards 2019 Best Action Game of 2019 - IGN Carve your own clever path to vengeance in the award winning adventure from developer FromSoftware, creators of Bloodborne and the Dark Souls series. Take Revenge. Restore Your Honor. Kill Ingeniously.",
+        "owned": true,
+        "completion_status": {
+            "beaten": true,
+            "endless": false,
+            "completed_achievements": false,
+            "on_hold": true,
+            "dropped": false
+        },
+        "steam_app_id": 814380,
+        "steam_image": "https://cdn.akamai.steamstatic.com/steam/apps/814380/header.jpg",
+        "tags": [
+            "Souls-like",
+            "Difficult",
+            "Action",
+            "Singleplayer"
+        ],
+        "steam_reviews":{
+            "num_reviews": 106612,
+            "overall_rating": "Very Positive"
+        }
+    },
+    {
+        "title": "Path of Exile",
+        "developer": "Grinding Gear Games",
+        "release_date": "2013-10-23T00:00:00.000Z",
+        "description": "You are an Exile, struggling to survive on the dark continent of Wraeclast, as you fight to earn power that will allow you to exact your revenge against those who wronged you. Created by hardcore gamers, Path of Exile is an online Action RPG set in a dark fantasy world.",
+        "owned": true,
+        "completion_status": {
+            "beaten": false,
+            "endless": true,
+            "completed_achievements": false,
+            "on_hold": false,
+            "dropped": false
+        },
+        "steam_app_id": 238960,
+        "steam_image": "https://cdn.akamai.steamstatic.com/steam/apps/238960/header.jpg",
+        "tags": [
+            "Free to play",
+            "Action RPG",
+            "Co-op",
+            "Multiplayer"
+        ],
+        "steam_reviews":{
+            "num_reviews": 170745,
+            "overall_rating": "Very Positive"
+        }
+    }
+]
